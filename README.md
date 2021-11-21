@@ -46,4 +46,4 @@ Eu utilizei o tema **bubblesline**, mas vocês podem visualizar outros na docume
 
 
 
-Caso tenham problema com a visualização de icones,  instalei a font **MesloLGM NF Regular** que está disponível no repositório.
+Caso tenham problema com a visualização de icones,  instalei a font [MesloLGM NF Regular](https://github.com/nathanramorim/oh-my-zsh-on-powershell/blob/master/Meslo%20LG%20M%20Bold%20Nerd%20Font%20Complete%20Mono%20Windows%20Compatible.ttf) que está disponível no repositório.
