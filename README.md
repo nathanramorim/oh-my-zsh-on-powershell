@@ -2,7 +2,11 @@
 
 ![s](https://i.ibb.co/Qr8dsyD/custom-powershell-git.png)
 
-O objetivo deste post, é mostrar a possibilidade de modificar temas e incluir um mapeamento do git através do [PowerShell](https://docs.microsoft.com/pt-br/powershell/),  além de que eu super curto a interface amigável de terminal que utilizo no meu macbook e senti muita falta de trazer essa experiência para o ambiente [Windows](https://www.microsoft.com/pt-br/windows/) (há já estou utilizando também a versão do windows 11)
+Sabiam que tem jeito de personalizar o [PowerShell](https://docs.microsoft.com/pt-br/powershell/) similiar a quando utilizamos o oh-my-zsh? Eu nem sabia.
+
+Eu curto bastante uma interface amigável de terminal e senti muita falta de trazer essa experiência para o ambiente [Windows](https://www.microsoft.com/pt-br/windows/) (há... já estou utilizando também a versão do Windows 11 que inclusive estou gostando também) 
+
+Andei pesquisando e cheguei nesse tutorial, quer também estilizar seu PowerShell?
 
 Para começarmos a estilizar nosso powershell será necessário alguns módulos:
 
